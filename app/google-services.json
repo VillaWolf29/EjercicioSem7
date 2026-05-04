@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "136222856772",
+    "project_id": "ejercicosem7",
+    "storage_bucket": "ejercicosem7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136222856772:android:44f995a9f700dcaf414e11",
+        "android_client_info": {
+          "package_name": "com.example.ejerciciosem7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6U0mEuGRmmZWIojYPxASL17USU7VJjBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

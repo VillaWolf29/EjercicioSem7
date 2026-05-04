@@ -113,7 +113,7 @@ fun CrudFirebaseScreen(modifier: Modifier = Modifier) {
             },
             modifier = Modifier.fillMaxWidth()
         ) {
-            Text("Agregar a Firebase")
+            Text("Agregar")
         }
 
         Spacer(modifier = Modifier.height(24.dp))
